@@ -1,4 +1,6 @@
 # <img src="https://github.com/Addy-Smart-Addresses/Addy-React-Native/blob/master/readme_assets/logo.png" alt="Addy" height="42" width="42"></img>   Addy-React-Native
+
+[![Join the chat at https://gitter.im/Addy-Smart-Addresses/Addy-React-Native](https://badges.gitter.im/Addy-Smart-Addresses/Addy-React-Native.svg)](https://gitter.im/Addy-Smart-Addresses/Addy-React-Native?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A React Native based app for Addy
 
 [Addy](https://github.com/Addy-Smart-Addresses/Addy) is a web app that enhances the addressing system of the world. Instead of remembering long addresses, Addy generates a unique 7-digit code based on the latitudinal and longitudinal coordinates of any position. The code is so accurate that every building in the world has been assigned a different 'Addy' with a minimum distance of 11.132 meters.
@@ -34,3 +36,12 @@ git commit -m <insert_commit_comment>
 git push -u origin <your_branch_name>
 ```
 8. Go to the GitHub repository and submit a Pull Request.
+
+## Running the app in your system
+1. Install [React Native](https://facebook.github.io/react-native/docs/getting-started.html) into your  system
+2. After forking the project, git clone the repository onto your local environment:
+```bash
+git clone https://github.com/YOUR-USERNAME/Addy-React-Native.git
+```
+3. Install to node modules using `npm install` in the project directory
+4. Use `react-native run-ios` or `react-native run-android` for running the app on iOS or Android device/ simulator installed in your system.
