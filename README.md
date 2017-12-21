@@ -34,3 +34,12 @@ git commit -m <insert_commit_comment>
 git push -u origin <your_branch_name>
 ```
 8. Go to the GitHub repository and submit a Pull Request.
+
+## Running the app in your system
+1. Install [React Native](https://facebook.github.io/react-native/docs/getting-started.html) into your  system
+2. After forking the project, git clone the repository onto your local environment:
+```bash
+git clone https://github.com/YOUR-USERNAME/Addy-React-Native.git
+```
+3. Install to node modules using `npm install` in the project directory
+4. Use `react-native run-ios` or `react-native run-android` for running the app on iOS or Android device/ simulator installed in your system.
