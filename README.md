@@ -44,5 +44,19 @@ git push -u origin <your_branch_name>
 ```bash
 git clone https://github.com/YOUR-USERNAME/Addy-React-Native.git
 ```
-3. Install to node modules using `npm install` in the project directory
-4. Use `react-native run-ios` or `react-native run-android` for running the app on iOS or Android device/ simulator installed in your system.
+3. Install the dependencies using:
+```
+npm install
+```
+or
+```
+yarn install
+```
+4. Run the following command from inside your project directory
+```
+react-native run-android //for running on android simulator/device
+```
+or
+```
+react-native run-ios //for running on iOS simulator on MacOS
+```
