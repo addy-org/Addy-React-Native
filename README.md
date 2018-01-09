@@ -13,27 +13,14 @@ https://gitter.im/Addy-Smart-Addresses
 https://github.com/addy-org/Addy-React-Native/wiki/Contribution-Guidelines
 
 ## Running the app in your system
-1. Install [React Native](https://facebook.github.io/react-native/docs/getting-started.html) into your  system
-2. After forking the project, git clone the repository onto your local environment:
+1. Install [**React Native**](https://facebook.github.io/react-native/docs/getting-started.html) into your  system
+2. Download and Install `Expo XDE` from [**Here**](https://docs.expo.io/versions/latest/introduction/installation.html) *(Also install iOS Simulator or a Mobile Client for your respective device)*
+3. After forking the project, git clone the repository onto your local environment:
 ```bash
 git clone https://github.com/YOUR-USERNAME/Addy-React-Native.git
 ```
-3. Install the dependencies using:
-```
-npm install
-```
-or
-```
-yarn install
-```
-4. Run the following command from inside your project directory
-```
-react-native run-android //for running on android simulator/device
-```
-or
-```
-react-native run-ios //for running on iOS simulator on MacOS
-```
+4. Open `Expo XDE` and click on `Open Existing Project`, then navigate to your cloned repository.
+5. Click on `Device` and run on iOS Simulator *(or Android)* or `Share` and scan the QR Code on your device with the **Expo Client**.
 
 ## Getting Started with Contributing:
 1. After forking the project, git clone the repository onto your local environment:
