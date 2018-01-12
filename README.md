@@ -1,5 +1,6 @@
 # <img src="https://github.com/addy-org/Addy-React-Native/blob/master/readme_assets/logo.png" alt="Addy" height="42" width="42"></img>   Addy-React-Native
 
+[![Build Status](https://travis-ci.org/addy-org/Addy-React-Native.svg?branch=master)](https://travis-ci.org/addy-org/Addy-React-Native)
 [![Join the chat at https://gitter.im/addy-org/Addy-React-Native](https://badges.gitter.im/addy-org/Addy-React-Native.svg)](https://gitter.im/addy-org/Addy-React-Native?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 A React Native based app for Addy
