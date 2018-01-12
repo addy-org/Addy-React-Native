@@ -5,5 +5,13 @@
     "expo": "^24.0.0",
     "react": "16.0.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-24.0.0.tar.gz"
+  },
+  "devDependencies": {
+    "eslint": "^4.15.0",
+    "eslint-config-universe": "^1.0.6",
+    "prettier": "^1.10.2"
+  },
+  "eslintConfig": {
+    "extends": "universe/native"
   }
 }
