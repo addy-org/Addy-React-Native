@@ -1,4 +1,4 @@
-# <img src="https://github.com/addy-org/Addy-React-Native/blob/master/readme_assets/logo.png" alt="Addy" height="42" width="42"></img>   Addy-React-Native
+# <img src="https://raw.githubusercontent.com/addy-org/Addy-React-Native/master/readme_assets/logo.png" alt="Addy" height="42" width="42"></img>   Addy-React-Native
 
 [![Build Status](https://travis-ci.org/addy-org/Addy-React-Native.svg?branch=master)](https://travis-ci.org/addy-org/Addy-React-Native)
 [![Join the chat at https://gitter.im/addy-org/Addy-React-Native](https://badges.gitter.im/addy-org/Addy-React-Native.svg)](https://gitter.im/addy-org/Addy-React-Native?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -11,7 +11,7 @@ A React Native based app for Addy
 https://gitter.im/addy-org
 
 ## Contribution Guidelines
-https://github.com/addy-org/Addy-React-Native/wiki/Contribution-Guidelines
+https://addy.wiki/contribution-guidelines
 
 ## Running the app in your system
 1. Install [**React Native**](https://facebook.github.io/react-native/docs/getting-started.html) into your  system
@@ -24,27 +24,4 @@ git clone https://github.com/YOUR-USERNAME/Addy-React-Native.git
 5. Click on `Device` and run on iOS Simulator *(or Android)* or `Share` and scan the QR Code on your device with the **Expo Client**.
 
 ## Getting Started with Contributing:
-1. After forking the project, git clone the repository onto your local environment:
-```bash
-git clone https://github.com/YOUR-USERNAME/Addy-React-Native.git
-```
-2. Create a separate Git branch
-```bash
-git branch <your_new_branch_name>
-```
-3. Git checkout your branch
-```bash
-git checkout <your_new_branch_name>
-```
-4. Open up the project in your favorite code editor (e.g. Atom).
-5. Make your changes.
-6. Git add and commit your changes.
-```bash
-git add <file_name>
-git commit -m <insert_commit_comment>
-```
-7. Git push your changes as well as your new branch.
-```bash
-git push -u origin <your_branch_name>
-```
-8. Go to the GitHub repository and submit a Pull Request.
+https://addy.wiki/newcomers-guide
